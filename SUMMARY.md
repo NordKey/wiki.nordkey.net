@@ -4,17 +4,11 @@
 
 ## Hébergement Web Plesk
 
-* [Comment héberger son site web ?](hebergement-web-plesk/comment-heberger-son-site-web.md)
-
----
-
-* [Bien gérer les comptes FTP sur Plesk](bien-gerer-les-comptes-ftp-sur-plesk.md)
+* [Bien gérer les comptes FTP sur Plesk](hebergement-web-plesk/bien-gerer-les-comptes-ftp-sur-plesk.md)
+* [Bien gérer vos certificats SSL avec Let's Encrypt](hebergement-web-plesk/bien-gerer-vos-certificats-ssl-avec-lets-encrypt.md)
+* [Installer WordPress sur son offre Plesk](hebergement-web-plesk/installer-wordpress-sur-son-offre-plesk.md)
 
 ## Création Site Web
 
-* [Comment demander la création de son site web ?](creation-site-web/comment-demander-la-creation-de-son-site-web.md)
-
 ## Noms de Domaines
-
-* [Comment commander un ndd ?](noms-de-domaines/comment-commander-un-ndd.md)
 

@@ -1,6 +1,10 @@
-# Comment se servir du Wiki ?
+---
+description: >-
+  Découvrez comment utiliser le mieux possible le Wiki de l'Association NordKey
+  !
+---
 
-## Comment se servir du WIKI ?
+# Comment se servir du Wiki ?
 
 ## Les Menus
 

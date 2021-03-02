@@ -4,7 +4,7 @@ description: >-
   !
 ---
 
-# Comment se servir du Wiki ?
+# Bien se servir du Wiki ?
 
 ## Les Menus
 

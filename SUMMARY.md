@@ -2,7 +2,7 @@
 
 * [Association NordKey - Wiki](README.md)
 * [Comment contribuer au Wiki ?](comment-contribuer-au-wiki.md)
-* [Comment se servir du Wiki ?](comment-se-servir-du-wiki.md)
+* [Bien se servir du Wiki ?](bien-se-servir-du-wiki.md)
 
 ## Offres & Services <a id="offres-et-services"></a>
 

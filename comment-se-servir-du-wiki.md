@@ -2,14 +2,6 @@
 
 ## Comment se servir du WIKI ?
 
-## Sommaire :
-
-* **Les Menus**
-  * **Introduction**
-  * **Les catégories**
-  * **Naviguer entre les catégories.**
-  * **Lien externes**
-
 ## Les Menus
 
 ### Introduction
